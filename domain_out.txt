@@ -1,0 +1,128 @@
+ibb.gov.tr
+ 2022-Mar-10No info found!
+ibb.istanbul
+ 2022-01-26T18:42:39Z DNS2.IBB.GOV.TR ok https://icann.org/epp#ok
+airquality.istanbul
+ 2029-07-17T07:34:33Z DNS2.IBB.GOV.TR ok https://icann.org/epp#ok
+akom.istanbul
+ 2022-03-02T20:19:25Z DNS2.IBB.GOV.TR ok https://icann.org/epp#ok
+alanbaskanligi.gov.tr
+ 2022-Jan-24No info found!
+istanbuluseyret.com
+ 2022-04-12T16:24:33Z DNS1.IBB.GOV.TR ok https://icann.org/epp#ok
+argeistanbul.com
+ 2022-08-12T17:40:39Z JM1.DNS.COM ok https://icann.org/epp#ok
+belnet.com.tr
+No info found!
+hareketlilikhaftasi.org
+ 2022-08-15T20:31:49Z DNS1.IBB.GOV.TR serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+havakalitesi.istanbul
+ 2029-07-08T14:52:23Z DNS2.IBB.GOV.TR ok https://icann.org/epp#ok
+ibb.ist
+ 2022-01-26T16:51:56Z DNS2.IBB.GOV.TR ok https://icann.org/epp#ok
+istanbul.bel.tr
+ 2023-Aug-03 dns1.ibb.gov.trNo info found!
+istanbul.com.tr
+No info found!
+ibbtrafikradyosu.istanbul
+ 2022-03-18T18:58:30Z DNS2.IBB.GOV.TR ok https://icann.org/epp#ok
+ibbtube.com
+ 2022-04-11T14:48:29Z DNS1.IBB.GOV.TR ok https://icann.org/epp#ok
+ibst.gov.tr
+ 2022-Jul-01No info found!
+icdenetim.istanbul
+No info found!
+isbak.com.tr
+ 2023-Sep-11No info found!
+isbak.istanbul
+ 2022-03-02T20:19:26Z DNS2.IBB.GOV.TR ok https://icann.org/epp#ok
+ismek.ist
+ 2022-01-26T16:51:57Z DNS2.IBB.GOV.TR ok https://icann.org/epp#ok
+ismek.istanbul
+ 2022-01-26T18:42:39Z DNS2.IBB.GOV.TR ok https://icann.org/epp#ok
+istanbulotobus.com
+ 2022-06-08T08:57:09Z NS1.TURKTICARET.NET clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+istanbulotobus.com.tr
+ 2022-Jun-09No info found!
+istanbulunmetrosu.com
+ 2021-12-19T19:14:17Z NS1.NAMEBRIGHTDNS.COM ok https://icann.org/epp#ok
+itfaiye.istanbul
+ 2022-03-02T20:19:27Z DNS2.IBB.GOV.TR ok https://icann.org/epp#ok
+isttelkom.com.tr
+ 2024-Oct-22No info found!
+istime.com.tr
+ 2022-Oct-25 dns1.ibb.gov.trNo info found!
+mobilityweek.org
+ 2022-08-15T20:31:35Z EXPIRED1.DNSENABLE.COM serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+ozidas.com.tr
+No info found!
+ozidas.ist
+ 2022-03-02T20:22:34Z DNS2.IBB.GOV.TR ok https://icann.org/epp#ok
+ozidas.istanbul
+ 2022-03-02T20:19:27Z DNS2.IBB.GOV.TR ok https://icann.org/epp#ok
+pedal.ist
+ 2022-01-30T06:23:06Z DNS2.IBB.GOV.TR ok https://icann.org/epp#ok
+ugetam.istanbul
+ 2022-03-02T20:19:27Z LIZ.NS.CLOUDFLARE.COM ok https://icann.org/epp#ok
+visit.istanbul
+ 2022-01-26T18:42:41Z DNS2.IBB.GOV.TR ok https://icann.org/epp#ok
+yurukesfet.com
+ 2023-03-17T09:15:09Z DNS1.IBB.GOV.TR ok https://icann.org/epp#ok
+akillisehir.istanbul
+ 2021-09-27T21:27:38Z DNS2.IBB.GOV.TR ok https://icann.org/epp#ok
+erisilebilir.istanbul
+ 2022-02-15T07:58:22Z DNS2.IBB.GOV.TR ok https://icann.org/epp#ok
+panorama.istanbul
+ 2022-02-19T22:36:43Z DNS2.IBB.GOV.TR ok https://icann.org/epp#ok
+istanbulsenin.ist
+ 2021-09-26T07:02:36Z DNS2.IBB.GOV.TR clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+istanbulsenin.istanbul
+ 2021-09-26T07:04:47Z DNS2.IBB.GOV.TR clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+istanbulsenin.org
+ 2021-09-20T08:04:06Z DNS1.IBB.GOV.TR clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+zeministanbul.ist
+ 2022-03-14T01:13:06Z DNS2.IBB.GOV.TR clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+isyon.istanbul
+ 2023-05-18T10:36:46Z DNS2.IBB.GOV.TR clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+lale.istanbul
+ 2022-04-01T18:19:03Z DNS2.IBB.GOV.TR ok https://icann.org/epp#ok
+lalefestivali.ist
+ 2022-04-01T18:15:42Z DNS2.IBB.GOV.TR ok https://icann.org/epp#ok
+lalefestivali.istanbul
+ 2022-04-01T18:19:03Z DNS2.IBB.GOV.TR ok https://icann.org/epp#ok
+otobus.ist
+No info found!
+otobus.istanbul
+No info found!
+istanbulmiraskomitesi.org
+No info found!
+seyret.ist
+No info found!
+seyret.istanbul
+No info found!
+zeministanbul.org.tr
+No info found!
+kultursanat.istanbul
+No info found!
+kanal.istanbul
+No info found!
+yesil.istanbul
+No info found!
+cocukbesteciyarismasi.com
+ 2022-01-06T13:00:10Z DNS1.IBB.GOV.TR ok https://icann.org/epp#ok
+istatistik.istanbul
+ 2021-12-03T20:05:03Z DNS2.IBB.GOV.TR ok https://icann.org/epp#ok
+konkur.istanbul
+ 2022-02-04T09:14:24Z DNS2.IBB.GOV.TR ok https://icann.org/epp#ok
+mahalle.istanbul
+ 2022-05-16T17:51:51Z DNS2.IBB.GOV.TR ok https://icann.org/epp#ok
+istanbulbbsk.org
+ 2023-05-01T09:31:36Z DNS1.IBB.GOV.TR ok https://icann.org/epp#ok
+vizyon2050.istanbul
+ 2022-08-06T12:44:54Z DNS2.IBB.GOV.TR ok https://icann.org/epp#ok
+turizmplatformu.istanbul
+ 2022-02-09T17:06:57Z DNS2.IBB.GOV.TR ok https://icann.org/epp#ok
+yurube.istanbul
+ 2022-02-20T14:15:43Z DNS2.IBB.GOV.TR clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+kiptas.istanbul
+ 2022-03-02T20:19:27Z NS1.VERIMERKEZI.ISTANBUL ok https://icann.org/epp#ok
