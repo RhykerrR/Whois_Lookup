@@ -7,9 +7,10 @@ from data_if_loop import domain_lookup
 with open("domain_list.txt") as f:
     domain_all = f.read().splitlines()
 
+with open ("domain_out.txt", "w") as f:
+    f.write ("")
 
 temp = []
-
 
 for domain in domain_all:
     domain = tldextract.extract(domain)
@@ -18,10 +19,7 @@ for domain in domain_all:
     if domain not in temp:
         temp.append(domain)
 
-
 temp.remove('.') 
-
-
 
 for domain in temp:
     
