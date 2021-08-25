@@ -9,5 +9,5 @@ check = re.findall(pattern, content, re.MULTILINE)
 
 for i in check:
     (domain, status) = i  
-    if not status.startswith("ok"):
+    if "ok" not in status:
         print (domain.rstrip() + " --> " + status)
