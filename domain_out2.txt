@@ -1,0 +1,477 @@
+dot.ml
+
+
+netsec.ninja
+
+
+test.education
+
+
+doramy.club
+ 2022-03-26T23:59:59Z
+ ['kip.ns.cloudflare.com', 'nia.ns.cloudflare.com']
+ ok https://icann.org/epp#ok
+
+google.cl
+
+
+google.in
+ 2022-02-14T20:35:14Z
+ ['ns4.google.com', 'ns2.google.com', 'ns1.google.com', 'ns3.google.com']
+ clientDeleteProhibited http://www.icann.org/epp#clientDeleteProhibited
+
+google.com.ar
+ 	2022-07-08 00:00:00
+ ['ns3.google.com ()', 'ns4.google.com ()', 'ns1.google.com ()', 'ns2.google.com ()']
+
+
+google.com.co
+ 2022-04-24T23:59:59Z
+ ['ns1.google.com', 'ns2.google.com', 'ns3.google.com', 'ns4.google.com']
+ clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+
+google.pl
+ 2023.10.14 09:30:46
+ [('ns1.google.com. ', 'ns2.google.com. ')]
+
+
+google.com.br
+     20230518
+ ['ns1.google.com', 'ns2.google.com', 'ns3.google.com', 'ns4.google.com']
+      published
+
+google.com
+ 2028-09-14T04:00:00Z
+ ['NS1.GOOGLE.COM', 'NS2.GOOGLE.COM', 'NS3.GOOGLE.COM', 'NS4.GOOGLE.COM']
+ clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+
+digg.com
+ 2028-12-29T02:29:44Z
+ ['BARBARA.NS.CLOUDFLARE.COM', 'DARL.NS.CLOUDFLARE.COM', 'barbara.ns.cloudflare.com', 'darl.ns.cloudflare.com']
+ clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+
+imdb.com
+ 2024-01-04T05:00:00Z
+ ['NS1.P31.DYNECT.NET', 'NS2.P31.DYNECT.NET', 'NS3.P31.DYNECT.NET', 'NS4.P31.DYNECT.NET', 'PDNS1.ULTRADNS.NET', 'PDNS2.ULTRADNS.NET', 'PDNS3.ULTRADNS.ORG', 'PDNS4.ULTRADNS.ORG', 'PDNS5.ULTRADNS.INFO', 'PDNS6.ULTRADNS.CO.UK', 'pdns6.ultradns.co.uk', 'ns4.p31.dynect.net', 'pdns5.ultradns.info', 'ns1.p31.dynect.net', 'pdns4.ultradns.org', 'pdns1.ultradns.net', 'pdns2.ultradns.net', 'ns3.p31.dynect.net', 'pdns3.ultradns.org', 'ns2.p31.dynect.net']
+ clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+
+microsoft.com
+ 2022-05-03T04:00:00Z
+ ['NS1-205.AZURE-DNS.COM', 'NS2-205.AZURE-DNS.NET', 'NS3-205.AZURE-DNS.ORG', 'NS4-205.AZURE-DNS.INFO']
+ clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+
+google.org
+ 2021-10-20T04:00:00Z
+ ['NS2.GOOGLE.COM', 'NS1.GOOGLE.COM', 'NS3.GOOGLE.COM', 'NS4.GOOGLE.COM']
+ clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+
+ddarko.org
+ 2023-02-28T14:41:24Z
+ ['NS107.OVH.NET', 'DNS107.OVH.NET']
+ clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+
+google.net
+ 2022-03-15T04:00:00Z
+ ['NS1.GOOGLE.COM', 'NS2.GOOGLE.COM', 'NS3.GOOGLE.COM', 'NS4.GOOGLE.COM']
+ clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+
+asp.net
+ 2022-01-05T05:00:00Z
+ ['NS1-04.AZURE-DNS.COM', 'NS2-04.AZURE-DNS.NET', 'NS3-04.AZURE-DNS.ORG', 'NS4-04.AZURE-DNS.INFO', 'ns4-04.azure-dns.info', 'ns1-04.azure-dns.com', 'ns2-04.azure-dns.net', 'ns3-04.azure-dns.org']
+ clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+
+ddarko.pl
+
+
+google.co.uk
+ 14-Feb-2022
+ []
+ Registered until expiry date.
+
+google.io
+ 2021-09-30T01:00:00Z
+ ['NS1.GOOGLE.COM', 'NS2.GOOGLE.COM', 'NS3.GOOGLE.COM', 'NS4.GOOGLE.COM']
+ clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+
+google.co
+ 2022-02-24T23:59:59Z
+ ['ns1.google.com', 'ns2.google.com', 'ns3.google.com', 'ns4.google.com']
+ clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+
+google.de
+
+
+yandex.ru
+ 2021-09-30T21:00:00Z
+ ['ns1.yandex.ru. 213.180.193.1, 2a02:6b8::1', 'ns2.yandex.ru. 93.158.134.1, 2a02:6b8:0:1::1', 'ns9.z5h64q92x9.net.']
+ REGISTERED, DELEGATED, VERIFIED
+
+google.us
+ 2022-04-18T23:59:59Z
+ ['ns1.google.com', 'ns2.google.com', 'ns3.google.com', 'ns4.google.com']
+ clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+
+google.eu
+
+
+google.me
+ 2022-06-13T17:17:40Z
+ ['NS1.GOOGLE.COM', 'NS2.GOOGLE.COM', 'NS4.GOOGLE.COM', 'NS3.GOOGLE.COM']
+ clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+
+google.be
+
+
+google.lt
+ 	2021-12-08
+ ['ns1.google.com\t', 'ns2.google.com\t', 'ns3.google.com\t']
+ 		registered
+
+google.biz
+ 2022-03-26T23:59:59Z
+ ['ns1.google.com', 'ns2.google.com', 'ns3.google.com', 'ns4.google.com']
+
+
+google.info
+ 2022-07-31T23:57:50Z
+ ['NS1.GOOGLE.COM', 'NS2.GOOGLE.COM', 'NS3.GOOGLE.COM', 'NS4.GOOGLE.COM']
+ clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+
+google.name
+
+
+google.it
+        2022-04-21
+ [('  ns1.google.com', '  ns2.google.com', '  ns3.google.com', '  ns4.google.com')]
+             ok
+
+google.cz
+       22.07.2022
+ ['ns2.google.com', 'ns4.google.com', 'ns3.google.com', 'ns1.google.com']
+
+
+google.fr
+ 2021-12-30T17:16:48Z
+ ['ns1.google.com', 'ns2.google.com', 'ns3.google.com', 'ns4.google.com']
+
+
+google.nl
+
+
+ez.lv
+
+
+google.store
+ 2022-06-06T23:59:59.0Z
+ ['NS2.GOOGLEDOMAINS.COM', 'NS4.GOOGLEDOMAINS.COM', 'NS3.GOOGLEDOMAINS.COM', 'NS1.GOOGLEDOMAINS.COM']
+ clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+
+kono.store
+ 2022-03-17T23:59:59.0Z
+ ['DNS1.REGISTRAR-SERVERS.COM', 'DNS2.REGISTRAR-SERVERS.COM']
+ clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+
+wonder.store
+ 2021-09-29T23:59:59.0Z
+ ['JACK.NS.CLOUDFLARE.COM', 'ROSE.NS.CLOUDFLARE.COM']
+ clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+
+viacom.tech
+ 2022-08-13T23:59:59.0Z
+ ['DNS4.P09.NSONE.NET', 'NS0004.SECONDARY.CLOUDFLARE.COM', 'NS0243.SECONDARY.CLOUDFLARE.COM', 'DNS1.P09.NSONE.NET', 'DNS2.P09.NSONE.NET', 'DNS3.P09.NSONE.NET']
+ clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+
+google.tech
+ 2022-07-29T23:59:59.0Z
+ ['NS2.GOOGLE.COM', 'NS4.GOOGLE.COM', 'NS3.GOOGLE.COM', 'NS1.GOOGLE.COM']
+ clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+
+google.space
+ 2022-01-19T23:59:59.0Z
+ ['NS2.GOOGLE.COM', 'NS4.GOOGLE.COM', 'NS1.GOOGLE.COM', 'NS3.GOOGLE.COM']
+ clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+
+loop.space
+ 2022-06-12T23:59:59.0Z
+ ['DNS1.REGISTRAR-SERVERS.COM', 'DNS2.REGISTRAR-SERVERS.COM']
+ ok https://icann.org/epp#ok
+
+bloom.space
+ 2022-07-06T23:59:59.0Z
+ ['DNS1.REGISTRAR-SERVERS.COM', 'DNS2.REGISTRAR-SERVERS.COM']
+ clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+
+invr.space
+ 2021-09-04T23:59:59.0Z
+ ['NS-DE.1AND1-DNS.ORG', 'NS-DE.1AND1-DNS.DE', 'NS-DE.1AND1-DNS.COM', 'NS-DE.1AND1-DNS.BIZ']
+ clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+
+buzzi.space
+ 2022-03-30T23:59:59.0Z
+ ['NS3.EUROPEAN-SERVER.COM', 'NS4.EUROPEAN-SERVER.COM']
+ ok https://icann.org/epp#ok
+
+theobservatory.space
+ 2021-11-03T23:59:59.0Z
+ ['DNS1.P02.NSONE.NET', 'DNS2.P02.NSONE.NET', 'DNS3.P02.NSONE.NET', 'DNS4.P02.NSONE.NET']
+ clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+
+google.security
+ 2022-01-07T23:59:59.0Z
+ ['NS2.GOOGLE.COM', 'NS4.GOOGLE.COM', 'NS3.GOOGLE.COM', 'NS1.GOOGLE.COM']
+ clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+
+pep.security
+ 2022-07-20T23:59:59.0Z
+ ['NS1.PEP.SECURITY', 'NS2.PEP.SECURITY']
+ clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+
+token.security
+
+
+juniper.security
+
+
+ci.security
+ 2022-03-26T23:59:59.0Z
+ ['NS-1415.AWSDNS-48.ORG', 'NS-1822.AWSDNS-35.CO.UK', 'NS-235.AWSDNS-29.COM', 'NS-725.AWSDNS-26.NET']
+ clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+
+in.security
+ 2022-03-23T23:59:59.0Z
+ ['CAROL.NS.CLOUDFLARE.COM', 'SIMON.NS.CLOUDFLARE.COM']
+ clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+
+autobuyer.site
+ 2021-09-28T23:59:59.0Z
+ ['NS67.DOMAINCONTROL.COM', 'NS68.DOMAINCONTROL.COM']
+ clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+
+emeralds.site
+ 2022-07-10T23:59:59.0Z
+ ['NS1.XSERVER.JP', 'NS2.XSERVER.JP', 'NS3.XSERVER.JP', 'NS4.XSERVER.JP', 'NS5.XSERVER.JP']
+ serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+
+darkops.site
+ 2021-12-01T23:59:59.0Z
+ ['DNS1.P04.NSONE.NET', 'DNS2.P04.NSONE.NET', 'DNS3.P04.NSONE.NET', 'DNS4.P04.NSONE.NET']
+ clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+
+google.site
+ 2022-07-08T23:59:59.0Z
+ ['NS2.GOOGLE.COM', 'NS4.GOOGLE.COM', 'NS3.GOOGLE.COM', 'NS1.GOOGLE.COM']
+ clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+
+manniswindows.site
+ 2022-06-06T23:59:59.0Z
+ ['WNS126.HOSTGATOR.COM', 'WNS125.HOSTGATOR.COM']
+ ok https://icann.org/epp#ok
+
+google.website
+ 2021-11-26T23:59:59.0Z
+ ['NS2.GOOGLE.COM', 'NS4.GOOGLE.COM', 'NS1.GOOGLE.COM', 'NS3.GOOGLE.COM']
+ clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+
+discjockey.website
+ 2021-09-18T23:59:59.0Z
+ ['NS-DE.1AND1-DNS.ORG', 'NS-DE.1AND1-DNS.DE', 'NS-DE.1AND1-DNS.COM', 'NS-DE.1AND1-DNS.BIZ']
+ ok https://icann.org/epp#ok
+
+anthropology.website
+
+
+livechat.website
+ 2021-09-18T23:59:59.0Z
+ ['NS1.DIGITALOCEAN.COM', 'NS2.DIGITALOCEAN.COM', 'NS3.DIGITALOCEAN.COM']
+ clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+
+google.tickets
+ 2022-07-13T23:59:59.0Z
+ ['NS3.GOOGLEDOMAINS.COM', 'NS1.GOOGLEDOMAINS.COM', 'NS2.GOOGLEDOMAINS.COM', 'NS4.GOOGLEDOMAINS.COM']
+ clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+
+google.theatre
+ 2022-01-07T23:59:59.0Z
+ ['NS2.GOOGLE.COM', 'NS4.GOOGLE.COM', 'NS3.GOOGLE.COM', 'NS1.GOOGLE.COM']
+ clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+
+google.xyz
+ 2021-11-26T23:59:59.0Z
+ ['NS1.GOOGLE.COM', 'NS2.GOOGLE.COM', 'NS3.GOOGLE.COM', 'NS4.GOOGLE.COM']
+ clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+
+google.tel
+ 2022-03-22T23:59:59Z
+ ['ns1.google.com', 'ns2.google.com', 'ns3.google.com', 'ns4.google.com']
+ clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+
+google.tv
+ 2022-08-02T16:43:36Z
+ ['NS1.GOOGLE.COM', 'NS2.GOOGLE.COM', 'NS3.GOOGLE.COM', 'ns2.google.com', 'ns3.google.com', 'ns1.google.com']
+ clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+
+google.cc
+ 2022-06-07T04:00:00Z
+ ['NS1.GOOGLE.COM', 'NS2.GOOGLE.COM', 'NS3.GOOGLE.COM', 'NS4.GOOGLE.COM']
+ clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+
+google.nyc
+ 2022-06-19T23:59:59Z
+ ['DNSSEC: unsigned']
+ clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+
+google.pw
+ 2022-02-10T23:59:59.0Z
+ ['DNSSEC: unsigned']
+ clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+
+google.online
+ 2022-08-19T23:59:59.0Z
+ ['NS3.GOOGLEDOMAINS.COM', 'NS1.GOOGLEDOMAINS.COM', 'NS2.GOOGLEDOMAINS.COM', 'NS4.GOOGLEDOMAINS.COM']
+ clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+
+google.wiki
+ 2021-11-26T23:59:59.0Z
+ ['NS3.GOOGLEDOMAINS.COM', 'NS1.GOOGLEDOMAINS.COM', 'NS2.GOOGLEDOMAINS.COM', 'NS4.GOOGLEDOMAINS.COM']
+ clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+
+google.press
+ 2021-11-26T23:59:59.0Z
+ ['NS2.GOOGLE.COM', 'NS4.GOOGLE.COM', 'NS3.GOOGLE.COM', 'NS1.GOOGLE.COM']
+ clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+
+google.se
+          2021-10-20
+ ['ns1.google.com', 'ns2.google.com', 'ns3.google.com', 'ns4.google.com']
+           serverDeleteProhibited
+
+google.nu
+          2022-06-07
+ ['ns1.google.com', 'ns2.google.com', 'ns3.google.com', 'ns4.google.com']
+           ok
+
+google.fi
+ 4.7.2022 10:15:55
+ ['ns3.google.com [OK]', 'ns4.google.com [OK]', 'ns1.google.com [OK]', 'ns2.google.com [OK]']
+ Registered
+
+google.is
+      May 22 2022
+ ['     ns1.google.com', '     ns2.google.com']
+
+
+afilias.com.au
+
+
+jisc.ac.uk
+ Saturday 17th Jun 2023
+ [('ns11.ja.net', 'ns10.ja.net')]
+
+
+google.com.au
+
+
+register.bank
+ 2022-04-24T16:44:31Z
+ ['dns3.register.bank', 'dns4.register.bank']
+ ok https://icann.org/epp#ok
+
+yandex.ua
+
+
+google.ca
+
+
+google.mu
+ 2021-12-19T13:00:00.0Z
+ ['ns1.google.com', 'ns2.google.com', 'ns3.google.com', 'ns4.google.com']
+ clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+
+google.rw
+
+
+tut.by
+
+
+guinness.ie
+
+
+google.com.tr
+
+
+google.sale
+
+
+google.link
+
+
+google.game
+ 2022-05-19T14:05:56.288Z
+ ['ns1.googledomains.com', 'ns3.googledomains.com', 'ns2.googledomains.com', 'ns4.googledomains.com']
+ clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+
+google.trade
+ 2022-05-29T23:59:59Z
+ []
+ clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+
+google.ink
+ 2021-11-26T23:59:59.0Z
+ ['NS1.GOOGLE.COM', 'NS2.GOOGLE.COM', 'NS3.GOOGLE.COM', 'NS4.GOOGLE.COM']
+ clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+
+google.pub
+
+
+google.im
+ 11/08/2022 23:59:44
+ ['ns1.google.com.', 'ns2.google.com.', 'ns3.google.com.', 'ns4.google.com.']
+
+
+google.am
+ 2022-04-15
+ [('ns1.google.com', 'ns2.google.com', 'ns3.google.com', 'ns4.google.com')]
+      active, registrar locked
+
+google.fm
+ 2022-09-04T23:59:59.0Z
+ ['NS1.GOOGLE.COM', 'NS3.GOOGLE.COM', 'NS2.GOOGLE.COM']
+ clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+
+google.hk
+
+
+google.cr
+       03.03.2022
+ []
+ Deletion forbidden
+
+google.global
+
+
+google.co.il
+ 05-06-2022
+ ['ns1.google.com ', 'ns2.google.com ', 'ns3.google.com ', 'ns4.google.com ']
+ Transfer Locked
+
+google.pt
+
+
+elcomercio.pe
+
+
+terra.com.pe
+
+
+amazon.study
+ 2021-10-14T23:07:57Z
+ ['nssui.comlaude.ch', 'nsgbr.comlaude.co.uk', 'nsusa.comlaude.net']
+ clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+
+amazon.courses
+ 2021-09-23T21:50:07Z
+ ['nssui.comlaude.ch', 'nsgbr.comlaude.co.uk', 'nsusa.comlaude.net']
+ clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+
+google.aw
+
