@@ -3,6 +3,7 @@ import re
 import tldextract
 from data_if_loop import domain_lookup
 
+
 with open("domain_list.txt") as f:
     domain_all = f.read().splitlines()
 
@@ -18,18 +19,18 @@ for domain in domain_all:
     if domain not in temp:
         temp.append(domain)
 
-temp.remove('.') 
+try:
+    temp.remove('.') 
+except:
+    pass
+
 
 for domain in temp:
     
     print (domain)
     
-    d = tldextract.extract(domain)
-    d = "{}".format(d.suffix)
-    temp = set(d)
-  
     tld = domain_lookup(domain)
-     
+      
     def whois(ip,name):
         p = subprocess.Popen(['whois', ip], stdout=subprocess.PIPE)
         out, err = p.communicate()
@@ -55,5 +56,5 @@ for domain in temp:
         except:
             f.writelines("\n")
         f.writelines("\n")
-  
+
   
